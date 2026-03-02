@@ -1,5 +1,5 @@
 {
   "name": "Kfx Player",
-  "description": "Plataforma personal de video",
+  "description": "A minimalist video streaming platform interface inspired by YouTube, featuring a clean player and discovery sidebar.",
   "requestFramePermissions": []
 }
