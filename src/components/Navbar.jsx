@@ -14,7 +14,7 @@ export default function Navbar({ onHomeClick, isDarkMode, toggleDarkMode }) {
           <span className={`font-bold text-xl tracking-tighter transition-colors ${
             isDarkMode ? 'text-white' : 'text-gray-900'
           }`}>
-            Kfx Player
+            karaoke videos 
           </span>
         </div>
       </div>
